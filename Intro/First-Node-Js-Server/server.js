@@ -14,7 +14,7 @@ const server = http.createServer(function(request, response){
     // here we can read the request, and set the response
     response.statusCode = 200; // we set 200 status for the response.
     response.setHeader('Content-Type', 'text/plain');// the response should pe as a text
-    response.end('Hello World From Node JS');// sending the response
+    response.end(request.url);// sending the response
 });
 
 // run the server listener method, we should pass the port in the first position argument
