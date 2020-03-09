@@ -1,0 +1,77 @@
+{
+    "FBW4_participants": [
+        {
+            "firstName": "Mostafa",
+            "lastName": "Othman",
+            "age": 30,
+            "married": false,
+            "experiences":["Javascript", "nodejs", "HTML", "CSS"],
+            "phone": 1122334455,
+            "email": "mmm@mmm.mmm",
+            "address": "Ratzeburg"
+        },{
+            "firstName": "Safwan",
+            "lastName": "Kherallah",
+            "age": 29,
+            "married": false,
+            "experiences":["Javascript", "nodejs", "HTML", "CSS", "React"],
+            "phone": 66554422,
+            "email": "sss@sss.sss",
+            "address": "Hamburg"
+        },{
+            "firstName": "Kenan",
+            "lastName": "Mawlod",
+            "age": 35,
+            "married": true,
+            "experiences":["Javascript", "nodejs", "HTML", "CSS", "Exel"],
+            "phone": 22554455,
+            "email": "kkk@kkk.kkk",
+            "address": "Hanover"
+        },{
+            "firstName": "Omar",
+            "lastName": "Alkadri",
+            "age": 33,
+            "married": true,
+            "experiences":["Javascript", "nodejs", "HTML", "CSS", "Medic"],
+            "phone": 36512548,
+            "email": "ooo@ooo.ooo",
+            "address": "Berlin"
+        },{
+            "firstName": "Jay",
+            "lastName": "DJ",
+            "age": 25,
+            "married": false,
+            "experiences":["Javascript", "nodejs", "HTML", "CSS", "DJ"],
+            "phone": 66666666,
+            "email": "jjj@jjj.jjj",
+            "address": "NewYork"
+        },{
+            "firstName": "Stefan",
+            "lastName": "Stefan",
+            "age": 34,
+            "married": null,
+            "experiences":["Javascript", "nodejs", "HTML", "CSS", "Raspberry-Pi"],
+            "phone": 888555222,
+            "email": "st@st.st",
+            "address": "Danmark"
+        },{
+            "firstName": "Roth",
+            "lastName": "Roth",
+            "age": 30,
+            "married": true,
+            "experiences":["Javascript", "nodejs", "HTML", "CSS", "swimming"],
+            "phone": 159263487,
+            "email": "rrr@rrr.rrr",
+            "address": "Kiel"
+        },{
+            "firstName": "Filiz",
+            "lastName": "Filiz",
+            "age": 36,
+            "married": true,
+            "experiences":["Javascript", "nodejs", "HTML", "CSS", "writing"],
+            "phone": 147952632,
+            "email": "fff@fff.fff",
+            "address": "Stutgart"
+        }
+    ]
+}
